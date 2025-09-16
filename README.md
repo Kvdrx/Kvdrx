@@ -55,12 +55,12 @@ Je suis un développeur rigoureux et passionné, maîtrisant l'ensemble de la ch
 
 ### 📫 Pour me contacter
 
-- **Email :** [Kaderassok.10@gmail.com](mailto:Kaderassok.10@gmail.com)
+- **Email :** [Kaderassak.10@gmail.com](mailto:Kaderassok.10@gmail.com)
 - **Localisation :** Québec, QC, Canada
 - **LinkedIn :**
 
 <p align="center">
-  <a href="mailto:Kaderassok.10@gmail.com">
+  <a href="mailto:Kaderassak.10@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="">
