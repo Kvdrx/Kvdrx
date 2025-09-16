@@ -2,10 +2,6 @@
 <h3 align="center">Développeur Full-Stack passionné, basé à Québec</h3>
 <br>
 
-//<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Développeur+Full-Stack;Passionné+Mobile;Résolveur+de+Problèmes;Leader+ d'Équipe;Toujours+en+Apprentissage" alt="Typing SVG" /></a>
-</p>//
-
 ---
 
 ### 👨‍💻 À propos de moi
@@ -67,11 +63,7 @@ Je suis un développeur rigoureux et passionné, maîtrisant l'ensemble de la ch
   <a href="mailto:Kaderassok.10@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <//a href=""> //
+  <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
-//<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TON-NOM-UTILISATEUR&label=Vues+du+Profil&color=0e75b6&style=flat" alt="Compteur de vues" />
-</p>//
