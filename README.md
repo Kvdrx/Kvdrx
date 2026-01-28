@@ -57,7 +57,7 @@ Je suis un développeur rigoureux et passionné, maîtrisant l'ensemble de la ch
 
 - **Email :** [Kaderassak.10@gmail.com](mailto:Kaderassok.10@gmail.com)
 - **Localisation :** Québec, QC, Canada
-- **LinkedIn :** https://www.linkedin.com/in/abdoul-kader-kassa-852a64191
+- **LinkedIn :** https://www.linkedin.com/in/abdoul-kader-kassa
 
 <p align="center">
   <a href="mailto:Kaderassak.10@gmail.com">
